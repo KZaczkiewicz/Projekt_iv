@@ -1,0 +1,3 @@
+2811775773022 ilosc roznych bajtow: 1
+2811775773022 ilosc porownanych bajtow: 400
+2811775773022 BER: 0.0025

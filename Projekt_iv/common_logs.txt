@@ -1,0 +1,11 @@
+2811385434122 ilosc roznych bajtow: 0
+2811385434122 ilosc porownanych bajtow: 100
+2811385434122 BER: 0
+
+2811403325428 ilosc roznych bajtow: 1
+2811403325428 ilosc porownanych bajtow: 100
+2811403325428 BER: 0.01
+
+2811775773022 ilosc roznych bajtow: 1
+2811775773022 ilosc porownanych bajtow: 400
+2811775773022 BER: 0.0025
