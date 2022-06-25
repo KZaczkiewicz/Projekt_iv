@@ -24,6 +24,13 @@ int main(int argc, char* argv[]) {
 
     while (firstChar != EOF && secondChar != EOF) {
 
+        bitCounter++;
+        if (firstChar != secondChar) {
+            differentCounter++;
+        }
+        firstStream >> firstChar;
+        secondStream >> secondChar;
+
     }
 
     if (firstChar != EOF || secondChar != EOF) {
